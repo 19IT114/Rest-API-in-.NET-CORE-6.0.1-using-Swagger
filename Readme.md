@@ -21,8 +21,6 @@
 - [asciidoctor](#asciidoctor)
 
 
-[中文版本Chinese version](README.zh-CN.md)
-
 ## Quick Start
 
 1. install: after git clone, execute commands below in root directory:
